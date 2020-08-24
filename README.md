@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on the Django project. ...
 - 💬 Ask me about: Django and Javascript anything .I will try my best to help you.
 - 📫 How to reach me:farhanbinshafiq@gmail.com
-- 😄 Pronouns:His/Her
+
  
