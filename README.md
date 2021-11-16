@@ -1,13 +1,13 @@
 ### Hi there 👋, Hi,I am Farhan
 #### Front-end Developer | CSE | NSU
-Experienced in front-end development. Skilled in creating websites with Java-Script, Bootstrap, Css3. Currently looking for an opportunity to further enhance my skill in this industry.
+Experienced in front-end development. Skilled in creating websites with Java-Script, Bootstrap, Css3. 
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / JSON
 
-- 🔭 I’m currently working on Executive(IT & Communications),Brand Solution LImited, 
-- 🌱 I’m currently learning Python & Django 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web development 
+- 🔭 Working as Executive(IT & Communications),Brand Solution LImited, 
+- 🌱 Learning Python & Django 
+- 👯 Looking to collaborate on github 
+- 💬 Skilled in Front-end Web development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhanBinShafiq   )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farhan-bin-shafiq-5992ab199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/FarhanBShafiq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.farhanbinshafiq.me)  
