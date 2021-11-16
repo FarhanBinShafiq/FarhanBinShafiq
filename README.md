@@ -1,5 +1,5 @@
 ### Hi there 👋, Hi,I am Farhan
-#### Front-end Developer | CSE Graduate | NSUER
+#### Front-end Developer | CSE Graduate | NSU-er
 Experienced in front-end development. Skilled in creating websites with Java-Script, Bootstrap, Css3. Currently looking for an opportunity to further enhance my skill in this industry.
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / JSON
