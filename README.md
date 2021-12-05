@@ -5,7 +5,7 @@ Experienced in front-end development. Skilled in creating websites with Java-Scr
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / JSON
 
 - 🔭 Working as Executive(IT & Communications),Brand Solution LImited, 
-- 🌱 Learning Python & Django 
+- 🌱 Learning JS & React JS 
 - 👯 Looking to collaborate on github 
 - 💬 Skilled in Front-end Web development 
 
