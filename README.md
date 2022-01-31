@@ -1,8 +1,10 @@
 ### Hi there 👋, Hi,I am Farhan
 #### Front-end Developer | CSE | NSU
-Experienced in front-end development. Skilled in creating websites with Java-Script, Bootstrap, Css3. 
+Experienced in front-end development. Skilled in creating websites with Java-Script,React Js,Firebase,Tailwind Bootstrap, Css3. 
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / JSON
+Skills: REACT / JS / HTML / CSS / BOOTSTRAP / JSON / Tailwind / Firebase
+
+Portfolio Link: https://farhanbinshafiq.netlify.app/
 
 - 🔭 Working as Executive(IT & Communications),Brand Solution LImited, 
 - 🌱 Learning JS & React JS 
