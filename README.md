@@ -18,6 +18,7 @@ Portfolio Link: https://farhanbinshafiq.netlify.app/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FarhanBinShafiq   )](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanBinShafiq   )](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanBinShafiq   &show_icons=true&count_private=true)  
 
