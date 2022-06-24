@@ -2,7 +2,7 @@
 #### Front-end Developer | CSE | NSU
 Experienced in front-end development. Skilled in creating websites with Java-Script,React Js,Firebase,Tailwind Bootstrap, Css3. 
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / JSON / Tailwind / Firebase / Node Js / MongoDb / MySql
+Skills: REACT / JS / HTML / CSS / BOOTSTRAP / JSON / Tailwind / Firebase / Node Js / MongoDb  
 
 Portfolio Link: https://farhanbinshafiq.netlify.app/
 
