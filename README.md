@@ -1,4 +1,4 @@
-# Hi there, Hi,I am Farhan
+# Hi there,I am Farhan
 ## WEB Developer | CSE | NSU
 Experienced in front-end development. Skilled in creating websites with Java-Script,React Js,Firebase,Tailwind, Bootstrap, Css3,Node Js,MongoDB. 
 
