@@ -18,8 +18,8 @@ Portfolio Link: https://farhanbinshafiq.netlify.app/
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FarhanBinShafiq   )  
 
-![Profile views](https://gpvc.arturio.dev/FarhanBinShafiq   )  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanBinShafiq   )](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 
  
