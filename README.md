@@ -1,7 +1,7 @@
  
 
 
-### Hi there 👋, My name Farhan
+### Hi there 👋, I am Farhan
 #### WEB DEVELOPER | CSE | JAVASCRIPT | NODE JS | EXPRESS JS | BOOTSTRAP
 ![WEB DEVELOPER | CSE | JAVASCRIPT | NODE JS | EXPRESS JS | BOOTSTRAP](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/242800148_4358234720924135_8206434107171856433_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEaQv4qunTH2hetaYwc1KZGIvPc6zuU4Eci89zrO5TgR_5s7TB6ZAXqsRNDpGp5M_s-B7u1e0RXUjqdI7K75msk&_nc_ohc=-ES8JGxSG3wAX-K1Bqw&_nc_ht=scontent.fdac138-1.fna&oh=00_AT-ZKlAGvs37eVoiQyh0QT2DV328YXZe8JjNeYNDD2Wbvw&oe=62CD9AF6)
 
