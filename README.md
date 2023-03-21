@@ -1,7 +1,7 @@
   
 <h1 align="center">Hi 👋, I'm Md.Farhan Bin Shafiq</h1>
 
-<h3 align="center">Front-end DEVELOPER | CSE |JAVASCRIPT | REACT-JS | HMTL5 | CSS3 | NODE-JS | EXPRESS JS | BOOTSTRAP | TAILWIND | MONGO DB | FIREBASE</h3>
+<h3 align="center">MERN Stack DEVELOPER | CSE |JAVASCRIPT | REACT-JS | MONGO DB | NODE-JS | EXPRESS JS | HMTL5 | CSS3 |  BOOTSTRAP | TAILWIND |  FIREBASE</h3>
 
  
 
