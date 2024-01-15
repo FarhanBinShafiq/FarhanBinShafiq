@@ -1,7 +1,7 @@
   
 <h1 align="center">Hi 👋, I'm Md.Farhan Bin Shafiq</h1>
 
-<h3 align="center">MERN Stack DEVELOPER | CSE | JAVASCRIPT | REACT-JS | MONGO DB | NODE-JS | EXPRESS JS | HMTL5 | CSS3 |  BOOTSTRAP | TAILWIND |  FIREBASE</h3>
+<h3 align="center">MERN Stack DEVELOPER | CSE | JAVASCRIPT | REACT-JS | MONGO DB | NODE-JS | EXPRESS JS | HMTL5 | CSS3 |  BOOTSTRAP | TAILWIND |  FIREBASE | PYTHON</h3>
 
  
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as a Web-Application Developer at CT Health Ltd
+- 🔭 I’m currently working as a Junior Web  Developer at Arced Foundation
 
 - 🌱 I’m currently learning **Mern Stack**
 
