@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as a Junior Web  Developer at Arced Foundation
+- 🔭 I’m a Junior Web Developer at Arced Foundation, diving into Data Analysis, Machine Learning, AI, and Web Scraping—on my way to becoming a Data Scientist!
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m sharpening my skills in MERN Stack, Data Science, and AI/ML.
 
-- 👯 I’m looking to collaborate on **any React JS related project**
+- 👯 I’d love to team up on React JS projects or anything data-driven.
 
-- 👨‍💻 All of my projects are available at [https://farhanbinshafiq.netlify.app/](https://farhanbinshafiq.netlify.app/)
+- 👨‍💻 Check out my projects at https://farhanbinshafiq.netlify.app/
 
-- 📝 I regularly write articles on [https://farhanbinshafiq.netlify.app/](https://farhanbinshafiq.netlify.app/)
+- 📝 I share my thoughts and write-ups at https://farhanbinshafiq.netlify.app/
 
-- 💬 Ask me about **React-Js,Java-script**
+- 💬 Chat with me about React JS, JavaScript, or all things data & AI!
 
-- 📫 How to reach me **farhanbinshafiq@gmail.com**
+- 📫 Reach me at farhanbinshafiq@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YRuJNITKTKSPDlp1mIORq-zPklININhT/view?usp=share_link]([https://drive.google.com/file/d/1FwOKdOvXQDW5tHzJn5WmEsZPAY8WAOeG/view?usp=sharing](https://drive.google.com/file/d/1YRuJNITKTKSPDlp1mIORq-zPklININhT/view?usp=share_link))
 
