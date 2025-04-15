@@ -6,7 +6,7 @@
 
 <h3>About Me</h3>
 <p>
-Md. Farhan Bin Shafiq, a Computer Science graduate from North South University, thrives as a Junior Web Developer at Arced Foundation. Specializing in the MERN stack (React, Node.js, Express, MongoDB), he crafts dynamic web solutions with finesse. Farhan excels in backend development, using MySQL and server-side tech for robust systems. Passionate about data analysis, he’s mastering Python and Pandas to pivot toward data science. His leadership shone as Joint Secretary of NSU’s Computer Club, organizing a national coding contest. Recognized by JCI Bangladesh for community impact, he’s a versatile professional. Farhan’s drive for innovation fuels his growth in AI and ML. He’s eager to collaborate on React and data-driven projects.
+Md. Farhan Bin Shafiq, a Computer Science graduate from North South University, thrives as a  Web Developer at Arced Foundation. Specializing in the MERN stack (React, Node.js, Express, MongoDB), he crafts dynamic web solutions with finesse. Farhan excels in backend development, using MySQL and server-side tech for robust systems. Passionate about data analysis, he’s mastering Python and Pandas to pivot toward data science. His leadership shone as Joint Secretary of NSU’s Computer Club, organizing a national coding contest. Recognized by JCI Bangladesh for community impact, he’s a versatile professional. Farhan’s drive for innovation fuels his growth in AI and ML. He’s eager to collaborate on React and data-driven projects.
 </p>
 
 <div style="margin: 20px 0;">
