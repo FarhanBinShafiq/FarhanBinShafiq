@@ -4,19 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=8B5CF6&size=24&width=600&lines=Welcome+to+My+GitHub+Profile!;MERN+Stack+%7C+Data+Science+%7C+AI+%26+ML;Let's+Build+Something+Amazing!" alt="Animated Intro" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-<div style="background: linear-gradient(135deg, #8B5CF6, #3B82F6); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 6px 16px rgba(0,0,0,0.4); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.4)';">
-  <h3 style="color: white;">About Me</h3>
-  <p style="color: #E5E7EB;">
-    <b>Md. Farhan Bin Shafiq</b> is a Computer Science graduate from North South University, thriving as a <b>Junior Web Developer</b> at Arced Foundation.<br>
-    Specializing in <b>MERN stack</b> (React, Node.js, Express, MongoDB), he builds dynamic web solutions with finesse.<br>
-    Farhan also excels in backend development, leveraging <b>MySQL</b> and server-side technologies for robust systems.<br>
-    Passionate about <b>data analysis</b>, he’s mastering <b>Python</b> and <b>Pandas</b> to pivot toward data science.<br>
-    His leadership shone as Joint Secretary of NSU’s Computer Club, organizing a national coding contest.<br>
-    Recognized by <b>JCI Bangladesh</b> for community impact, he’s a versatile professional.<br>
-    Farhan’s relentless pursuit of innovation drives his growth in AI and ML.<br>
-    He’s a collaborator, eager to create impactful <b>React</b> and data-driven projects.
-  </p>
-</div>
+<h3>About Me</h3>
+<p>
+Md. Farhan Bin Shafiq, a Computer Science graduate from North South University, thrives as a Junior Web Developer at Arced Foundation. Specializing in the MERN stack (React, Node.js, Express, MongoDB), he crafts dynamic web solutions with finesse. Farhan excels in backend development, using MySQL and server-side tech for robust systems. Passionate about data analysis, he’s mastering Python and Pandas to pivot toward data science. His leadership shone as Joint Secretary of NSU’s Computer Club, organizing a national coding contest. Recognized by JCI Bangladesh for community impact, he’s a versatile professional. Farhan’s drive for innovation fuels his growth in AI and ML. He’s eager to collaborate on React and data-driven projects.
+</p>
 
 <div style="margin: 20px 0;">
   <p><img src="https://komarev.com/ghpvc/?username=farhanbinshafiq&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></p>
