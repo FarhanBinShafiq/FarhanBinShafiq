@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanbinshafiq" alt="farhanbinshafiq" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<pーディ="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m a Junior Web Developer at Arced Foundation, diving into Data Analysis, Machine Learning, AI, and Web Scraping—on my way to becoming a Data Scientist!
 - 🌱 I’m sharpening my skills in MERN Stack, Data Science, and AI/ML.
@@ -15,7 +15,7 @@
 - 📝 I share my thoughts and write-ups at https://farhanbinshafiq.netlify.app/
 - 💬 Chat with me about React JS, JavaScript, or all things data & AI!
 - 📫 Reach me at farhanbinshafiq@gmail.com
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YRuJNITKTKSPDlp1mIORq-zPklININhT/view?usp=share_link](https://drive.google.com/file/d/1YRuJNITKTKSPDlp1mIORq-zPklININhT/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YRuJNITKTKSPDlp1mIORq-zPklININhT/view?usp=share_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,6 +50,29 @@
 <h3 align="left">Most Used Languages:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanbinshafiq&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400" alt="farhanbinshafiq" />
+</p>
+
+<h3 align="left">Recent Projects Showcase:</h3>
+<p align="center">
+  <a href="https://farhanbinshafiq.netlify.app/" target="_blank">
+    <img src="https://via.placeholder.com/300x200.png?text=Portfolio+Site" alt="Portfolio" width="300" height="200" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+  <a href="https://github.com/farhanbinshafiq/react-ecommerce" target="_blank">
+    <img src="https://via.placeholder.com/300x200.png?text=React+E-Commerce" alt="E-Commerce" width="300" height="200" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+  <a href="https://github.com/farhanbinshafiq/data-scraper" target="_blank">
+    <img src="https://via.placeholder.com/300x200.png?text=Web+Scraper" alt="Web Scraper" width="300" height="200" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</p>
+
+<h3 align="left">Contribution Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanbinshafiq&theme=transparent&hide_border=true&background=FFFFFF00&stroke=000000&ring=6B7280&fire=FF4500&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=6B7280" alt="farhanbinshafiq" />
+</p>
+
+<h3 align="left">Skills Radar Chart:</h3>
+<p align="center">
+  <img src="https://via.placeholder.com/400x300.png?text=Skills+Radar+Chart+(JS,+Python,+React,+MongoDB)" alt="Skills Radar" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanbinshafiq&show_icons=true&locale=en" alt="farhanbinshafiq" /></p>
